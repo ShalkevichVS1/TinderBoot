@@ -1,0 +1,7 @@
+version: "3"
+services:
+  TinderBolt:
+    build:
+      context: docker
+      dockerfile: Dockerfile
+
